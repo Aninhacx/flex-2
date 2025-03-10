@@ -1,6 +1,6 @@
 # Flex 2
 
-![](./preview.png)
+![](./flex2.png)
 
 # Descrição
 Galeria flex 2, página HTML com vínculo ao github desenvolvido durante a displina de linguagem de Marcaçãoda escola SENAI Jandira.
