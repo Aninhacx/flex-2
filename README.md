@@ -1,4 +1,4 @@
-# PORTIFOLIO
+# Flex 2
 
 ![](./preview.png)
 
@@ -8,10 +8,10 @@ Galeria flex 2, página HTML com vínculo ao github desenvolvido durante a displ
 
 # Tecnologias
 * HTML
-*CSS
-*Git
-*Markdown
+* CSS
+* Git
+* Markdown
 & Github
 # Autor
 [ana catarina](www.linkedin.com/in/analourencofer013)
-# flex-2
+
